@@ -1,4 +1,4 @@
-### Assignment Status: ![](https://github.com/theacademy/Java_Factorial/actions/workflows/factorial.yaml/badge.svg?branch=main)
+### Assignment Status: ![](https://github.com/theacademy/Java_Query_Exercise/actions/workflows/db_query.yaml/badge.svg?branch=main)
 
 # Java_Query_Exercise
 ## Problem Statement
