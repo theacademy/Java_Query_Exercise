@@ -5,7 +5,6 @@ import com.example.demo.model.Course;
 import com.example.demo.model.Student;
 import com.example.demo.model.StudentClassCount;
 import com.example.demo.model.TeacherCount;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
